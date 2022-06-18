@@ -7,7 +7,7 @@ export default function App() {
         Reader's Evening
       </h1>
       <h2>When life give you lemonade, make lemons</h2>
-      <h3><i>life :</li> What!!</h3>
+      <h3><i>life :</i> What!!</h3>
 
 
       <p>sign up for the event now </p>

@@ -1,8 +1,9 @@
 import React from "react";
+import './Main.css'
 
 export default function Main() {
   return (
-    <div>
+    <div className="bg-blue-600">
       <h1>Reader's Evening</h1>
       <h2>When life give you lemonade, make lemons</h2>
       <h3>
